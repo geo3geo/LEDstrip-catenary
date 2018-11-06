@@ -5,7 +5,8 @@ they won't climb all the way back up. Gradually they lose energy and languish at
 repeats. Motion incorporates a sine function to simulate simple harmonic motion.
 
 There is a sound option (defaults ON) to make it more intersting. This is a simply digital output pin, use a resistor chain 
-to 'pot in down' and feed into an external amp of some sort, or headphones. Suitable resistor values would be 10K and 470R - very approx. 
+to 'pot in down' and feed into an external amp of some sort, or headphones. 
+Suitable resistor values would be 10K and 470R - very approx. 
 
 HC-05 Bluetooth control with a single character provides the following:
    u - up the brightness
