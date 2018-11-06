@@ -10,7 +10,9 @@ HC-05 Bluetooth control with a single character provides the following:
    f - faster
    s - slower
    
- Youtube video at https://youtu.be/yO6n0E20I8g
+Recommended Android Bluetooth app is 'Arduino Bluetooth Controller'
+
+Demo Youtube video at https://youtu.be/yO6n0E20I8g
 
 
 
